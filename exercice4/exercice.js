@@ -1,3 +1,3 @@
 $("button").click(function(){
-    // votre code ici
+    $("#div").slideUp(500).slideDown(500);
 });

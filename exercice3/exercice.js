@@ -1,0 +1,1 @@
+$("#div").slideDown(1500).slideUp(1500);
